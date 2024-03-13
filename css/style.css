@@ -1,0 +1,14 @@
+* {
+  color: red;
+  font-size: 24px;
+}
+
+.heading {
+  color: blue;
+}
+
+p.heading {
+  color: yellow;
+  display: block;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
