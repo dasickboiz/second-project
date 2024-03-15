@@ -31,3 +31,31 @@ p.heading {
 .joinBtn:active {
   color: red;
 }
+
+div {
+  width: 100px;
+  height: 100px;
+  color: black;
+  background-color: red;
+  padding: 10px;
+}
+
+.box1 {
+  background-color: azure;
+  border: 10px solid blue;
+  padding: 20px;
+}
+
+.box2 {
+  background-color: black;
+  padding: 20px;
+  border: 10px solid gold;
+  margin-left: 160px;
+}
+
+.box3 {
+  background-color: blueviolet;
+  padding: 20px;
+  border: 10px solid gray;
+  margin-left: 320px;
+}
